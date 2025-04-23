@@ -6,25 +6,28 @@ In this lab project, I simulated a basic script execution attack by running an A
 [![Watch the video](https://img.youtube.com/vi/N8SfZfiM3m0/0.jpg)](https://www.youtube.com/watch?v=N8SfZfiM3m0)
 
 
-## 🔒 Security Disclosure
-This project contains anonymized configurations and data for demonstration purposes only. No real customer, business, or platform credentials are included in this repository.
+## 🔧 Tools and Frameworks Used In This Lab
+- Azure Virtual Machines
+- Microsoft Defender for Endpoint
+- Microsoft Sentinel
+- Wireshark 
+- Powershell
+- Atomic Red Scripts
+- DeepBlueCLI
+- NIST 800-61 Incident Response
 
----
-
-# Technology Utilized
-- GoHighLevel (Elite360)
 
 ---
 
 
 # Table of Contents
 
-- [CIS Control 1: Inventory and Control of Assets](#cis-control-1-inventory-and-control-of-assets)
-- [CIS Control 2: Inventory and Control of Software Assets](#step-2-mock-meeting-policy-buy-in-stakeholders)
-- [CIS Control 4: Secure Configuration of Enterprise Assets and Software](#step-3-policy-finalization-and-senior-leadership-sign-off)
-- [CIS Control 5: Account Management](#step-4-mock-meeting-initial-scan-permission-server-team)
-- [CIS Control 8: Audit Log Management](#step-5-initial-scan-of-server-team-assets)
-- [CIS Control 14: Security Awareness and Skills Training](#step-7-distributing-remediations-to-remediation-teams)
+- [Step 1 - Prepare Your Virtual Machine for Attack Simulation](#cis-control-1-inventory-and-control-of-assets)
+- [Step 2 - Setup MDE To Detect Attack](#step-2-mock-meeting-policy-buy-in-stakeholders)
+- [Step 3 - Run the Atomic Script Attack](#step-3-policy-finalization-and-senior-leadership-sign-off)
+- [Step 4 - Review MDE Alerts Post-Attack](#step-4-mock-meeting-initial-scan-permission-server-team)
+- [Step 5 - Detection, Analysis and Response](#step-5-initial-scan-of-server-team-assets)
+- [Step 6 - Containment, Eradication, and Recovery ](#step-7-distributing-remediations-to-remediation-teams)
 
 ---
 
